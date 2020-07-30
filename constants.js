@@ -1,0 +1,21 @@
+IP = '135.23.222.131';
+PORT = 50541;
+PLAYERNAME = 'Name: CCC',
+MOVE_UP_KEY = 'w';
+MOVE_RIGHT_KEY = 'd';
+MOVE_DOWN_KEY = 's';
+MOVE_LEFT_KEY = 'a';
+SETENCODING = 'utf8';
+
+
+module.exports = {
+  IP,
+  PORT,
+  PLAYERNAME,
+  MOVE_UP_KEY,
+  MOVE_RIGHT_KEY,
+  MOVE_DOWN_KEY,
+  MOVE_LEFT_KEY,
+  SETENCODING
+  
+};
